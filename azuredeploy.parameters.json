@@ -3,16 +3,16 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": "GEN-UNIQUE"
+      "value": "administrator1"
     },
     "adminPassword": {
-      "value": "GEN-PASSWORD"
-    },
-    "dnsPrefix": {
-      "value": "GEN-UNIQUE"
+      "value": "ChangeMe123!"
     },
     "domainName": {
-      "value": "mydomain.local"
+      "value": "ecs.test"
+    },
+    "dnsPrefix": {
+      "value": "fcidns"
     }
   }
 }
